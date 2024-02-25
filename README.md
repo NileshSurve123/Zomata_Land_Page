@@ -1,1 +1,2 @@
-# Zomata_Land_Page
+ This is my zomato landing page clone
+
